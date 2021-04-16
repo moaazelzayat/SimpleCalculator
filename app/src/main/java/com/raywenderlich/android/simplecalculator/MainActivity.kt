@@ -45,7 +45,8 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
-  
+
+  // run unit test
   // test android work flow
   private val y = 0
 
