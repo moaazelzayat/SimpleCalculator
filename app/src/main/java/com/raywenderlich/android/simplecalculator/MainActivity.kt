@@ -46,6 +46,9 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
+  //simple work flow example
+  private val x = 0
+
   private val engine by lazy {
     CalculatorEngine()
   }
